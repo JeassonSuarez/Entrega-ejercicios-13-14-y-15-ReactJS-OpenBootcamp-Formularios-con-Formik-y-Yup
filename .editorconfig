@@ -1,0 +1,6 @@
+indent_style = tab  #tabulacion
+end_of_line =  lf   #salto de linea sea el mismo independiente del SO
+insert_final_newline = true  #l final de cada archivo haya un salto de linea
+tab_width = 2   #tamaño dos espacios de tabulacion
+charset = utf-8  #poder poner usar caracteres especiales
+trim_trailing_whitespace = true  #elimina espacios al final de cada linea
